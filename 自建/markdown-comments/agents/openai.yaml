@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown 批注"
+  short_description: "识别并处理 chaos: 行内批注与 Git 决策沉淀"
+  default_prompt: "使用 $markdown-comments 处理这份 Markdown 中的 chaos: 批注并沉淀决策。"
